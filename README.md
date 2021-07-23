@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Faheem 👩‍💻</h1>
+<h3 align="center">What we know is a Drop, What we don't know is an Ocean.</h3>
 
-<!--
-**fisforfaheem/fisforfaheem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **A lot of Projects...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [www.desiprogrammer.com](https://www.desiprogrammer.com)
+
+- 📝 I write articles on [www.fisforfaheem.medium.com](https://fisforfaheem.medium.com/)
+
+- 💬 Ask me about **flutter, SQL , C# ....**
+
+- 📫 How to reach me **fisforfaheem@gmail.com**
+
+- ⚡ Fun fact **Started as a Failure, I Never knew I could learn this 🙂🙂**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/desiprogrammer" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="desiprogrammer" height="80" width="80" /></a><a href="https://www.youtube.com/c/desiprogrammer" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/yt.svg" alt="desiprogrammer" height="80" width="80" /></a>
+<a href="https://twitter.com/fisforfaheem" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="desiprogrammer_" height="80" width="80" /></a>
+<a href="https://www.facebook.com/fisforfaheem" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="desiprogrammerofficial" height="80" width="80" /></a>
+<a href="https://fisforfaheem.medium.com/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@desiprogrammer" height="80" width="80" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a>  </p>
+
