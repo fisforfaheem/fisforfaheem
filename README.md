@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **A lot of Projects...**
 
-- 👨‍💻 All of my projects are available at [www.desiprogrammer.com](https://www.desiprogrammer.com)
+<!-- - 👨‍💻 All of my projects are available at [www.desiprogrammer.com](https://www.desiprogrammer.com) -->
 
 - 📝 I write articles on [www.fisforfaheem.medium.com](https://fisforfaheem.medium.com/)
 
