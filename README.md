@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **flutter, SQL , C# ....**
 
-- 📫 How to reach me **fisforfaheem@gmail.com**
+- 📫 How to reach me fisforfaheem@gmail.com
 
 - ⚡ Fun fact **Started as a Failure, I Never knew I could learn this 🙂🙂**
 
