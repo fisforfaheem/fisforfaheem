@@ -26,5 +26,5 @@
 <p align="left">  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
 </p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuqeetchaudhary&show_icons=true&locale=en&langs_count=15" alt="imuqeetchaudhary" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fisforfaheem&show_icons=true&locale=en&langs_count=15" alt="Faheem Ahmad" />
 </p>
