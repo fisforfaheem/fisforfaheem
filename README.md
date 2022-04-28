@@ -2,10 +2,9 @@
 <h3 align="center">What we know is a Drop, What we don't know is an Ocean.</h3>
 
 
-- 🔭 I’m currently working on 🔭 I’m currently working on a Health Care App.
+- 🔭 I’m currently working on 🔭 I’m currently working on a Health Care App as a Developer and UI Designer.
 - Lifelong learner & Freelancer.
 - I use technology that helps me.
-- I'm currently working as a Developer and UI Designer.
 
 <!-- - 👨‍💻 All of my projects are available at [www.desiprogrammer.com](https://www.desiprogrammer.com) -->
 
