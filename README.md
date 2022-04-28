@@ -3,8 +3,7 @@
 
 
 - 🔭 I’m currently working on 🔭 I’m currently working on a Health Care App as a Developer and UI Designer.
-- Lifelong learner & Freelancer.
-- I use technology that helps me.
+- Lifelong learner & Freelancer. I use technology that helps me.
 
 <!-- - 👨‍💻 All of my projects are available at [www.desiprogrammer.com](https://www.desiprogrammer.com) -->
 
