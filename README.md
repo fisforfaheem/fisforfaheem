@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [www.fisforfaheem.medium.com](https://fisforfaheem.medium.com/)
 
-- 💬 Ask me about **flutter, SQL , C# ....**
+- 💬 Ask me about **flutter, Firebase, C#, ....**
 
 - 📫 How to reach me fisforfaheem@gmail.com
 
