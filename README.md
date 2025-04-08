@@ -240,21 +240,31 @@ class FlutterDeveloper {
 
 <br>
 
+<!-- Modern animated ending section -->
 <div align="center">
-  <h3>Flutter Roadmap 2023</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_light.png">
-    <img alt="Flutter DevTools Memory Chart" src="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_dark.png" width="500">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=40&fontAlignY=65&animation=fadeIn&fontColor=FFFFFF" width="100%">
 </div>
 
-<!-- Wave animation at bottom -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+<div align="center">
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" />
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling&fontColor=ffffff"/>
+  <h3>Thanks for visiting my profile!</h3>
+  
+  <p>I'm always open to collaborating on interesting Flutter projects.</p>
+  
+  <a href="mailto:fisforfaheem@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=923431530052">
+    <img src="https://img.shields.io/badge/Let's%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/marquee.svg" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling&fontColor=ffffff"/>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=3000&pause=1000&color=0288D1&background=FFFFFF00&center=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+using+Flutter" alt="Made with ❤️ using Flutter" />
+  </a>
 </div>
