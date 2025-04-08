@@ -1,55 +1,114 @@
-<!-- Header with animated wave -->
-# Hey there, I'm Faheem Ahmad 👋
-
-![](code.gif)
-
-## The short version ⚡
-
-Flutter developer with 20+ shipped projects | Android/iOS/Web | Freelancer | IT Grad | Badminton enthusiast
-
-## About me 🚀
-
-I build things that live on mobile devices. Having shipped 20+ freelance Flutter projects (many under NDAs, but check my repos for the public ones), I'm all about crafting clean, efficient experiences that actually solve problems.
-
-When I'm not glued to VS Code, you'll find me destroying friends at badminton or hunting down new tech to play with. Always down to chat about design patterns, UI/UX, or why Flutter is taking over the world (fight me).
-
-## What I'm up to 🔥
-
-- Building cross-platform apps with Flutter
-- Diving deeper into design patterns & architecture
-- Crafting pixel-perfect UI/UX that doesn't suck
-- Experimenting with Firebase's latest offerings
-- IT Graduate from PMAS Arid University, Rawalpindi
-
-## My toolkit 🛠️
-
-```
-📱 Flutter (Android/iOS/Web)     🔥 Firebase (Auth, Firestore, Functions)
-🧠 Dart & OOP                    💾 State Management (Provider, Bloc, Riverpod)
-🎨 UI/UX Implementation          📊 RESTful APIs & JSON parsing
-📦 Clean Architecture            💰 Google AdMob integration
-```
-
-## Let's connect! 📫
-
+<!-- Animated Header SVG -->
 <div align="center">
-<a href="https://t.me/fisforfaheem"><img width="32" height="32" src="https://telegram.org/favicon.ico?3" /></a>&nbsp;&nbsp;
-<a href="mailto:fisforfaheem@gmail.com"><img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/fisforfaheem/"><img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" /></a>&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=923431530052"><img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FE6E96&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Faheem+Ahmad+%F0%9F%94%A5;Flutter+Developer+%26+UI%2FUX+Enthusiast+%F0%9F%92%BB;Building+Beautiful+Cross-Platform+Experiences+%F0%9F%9A%80;20%2B+Freelance+Projects+Delivered+%F0%9F%93%B1;Let%27s+Connect+and+Build+Something+Awesome+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-## Want to support my work?
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L5129XBM)
-
-## Tech stack 🧪
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<p align="center">
+  <a href="https://t.me/fisforfaheem"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:fisforfaheem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fisforfaheem/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=923431530052"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://ko-fi.com/L4L5129XBM"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fisforfaheem&label=Profile%20Views&color=fe6e96&style=flat" alt="Profile Views" />
+</div>
+
+## 👨‍💻 About Me
+
+<img align="right" src="code.gif" width="320px" alt="Coding GIF" />
+
+I'm a **Flutter Developer** who builds experiences that users actually want to use. After shipping 20+ freelance projects across multiple platforms, I've developed a knack for turning complex problems into elegant solutions.
+
+- 🎓 IT Graduate from **PMAS Arid University, Rawalpindi**
+- 🔭 Currently building **cross-platform apps** that feel native
+- 🌱 Constantly learning about **Design Patterns, Architecture & UI/UX**
+- 🎮 When AFK: Destroying friends at badminton, hunting tech gadgets
+- 💬 Always down to chat about **Flutter, design systems, or app architecture**
+- ⚡ Secret talent: Turning caffeine into code at alarming rates
+
+<p align="center">
+  <a href="https://github.com/fisforfaheem">
+    <img src="https://github-profile-trophy.vercel.app/?username=fisforfaheem&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+## 🔥 Skills & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/UI/UX-FF3E00?style=for-the-badge&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-1F1F1F?style=for-the-badge&logoColor=white" alt="Clean Architecture" />
+</p>
+
+```javascript
+// my-skills.dart
+
+class FlutterDeveloper {
+  final String name = "Faheem Ahmad";
+  final List<String> primarySkills = [
+    "Flutter Development",
+    "Cross-Platform Apps",
+    "Firebase Integration",
+    "UI/UX Implementation",
+    "Clean Architecture",
+    "State Management",
+    "RESTful APIs",
+    "Google AdMob",
+    "Responsive Design",
+  ];
+  
+  final Map<String, List<String>> technicalStack = {
+    "Languages": ["Dart", "Java", "C"],
+    "Frontend": ["Flutter", "Material Design", "Custom Widgets"],
+    "Backend": ["Firebase", "Cloud Functions", "REST APIs"],
+    "State": ["Provider", "Bloc", "Riverpod"],
+    "Tools": ["VS Code", "Android Studio", "Git", "Figma"],
+  };
+  
+  String currentFocus() => "Building seamless, beautiful mobile experiences";
+}
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/fisforfaheem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fisforfaheem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisforfaheem&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/fisforfaheem">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fisforfaheem&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
+
+## 🎯 What Sets Me Apart
+
+- **Performance-First Approach**: Building Flutter apps that run smoothly, even on lower-end devices
+- **Clean, Maintainable Code**: Following best practices and design patterns for scalable apps
+- **User-Centered Design**: Creating intuitive interfaces that users love to interact with
+- **Problem Solver**: Turning complex requirements into elegant solutions
+- **Continuous Learner**: Always experimenting with new technologies and approaches
+
+## 🔍 Currently Exploring
+- Advanced state management patterns
+- Animations and micro-interactions
+- Performance optimization techniques
+- AR integration in mobile apps
+- Flutter 3.0+ capabilities
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
