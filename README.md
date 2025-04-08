@@ -156,89 +156,59 @@ class FlutterDeveloper {
   <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 </div>
 
-<!-- Modern animated ending section -->
+<!-- Collaborate Section -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=02C39A&center=true&vCenter=true&multiline=true&random=false&width=600&height=150&lines=READY+TO+COLLABORATE%3F;LET'S+CREATE+SOMETHING+EXTRAORDINARY;WITH+FLUTTER+%26+DART" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
+  <h2>Ready to Collaborate?</h2>
+  <h3>Let's Create Something Extraordinary with Flutter</h3>
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 </div>
 
+<!-- Contact Section -->
 <div align="center">
-  <h3 style="background: linear-gradient(to right, #30CFD0, #5A45FF, #6EE7B7); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect</h3>
+  <h3>Let's Connect</h3>
   
   <p>I'm always open to collaborating on exciting Flutter projects!</p>
   
   <div>
     <a href="mailto:fisforfaheem@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>&nbsp;
     <a href="https://t.me/fisforfaheem" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>&nbsp;
     <a href="https://www.instagram.com/fisforfaheem/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>&nbsp;
     <a href="https://api.whatsapp.com/send?phone=923431530052" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </div>
   
   <div style="margin-top:20px;">
     <a href="https://ko-fi.com/L4L5129XBM">
-      <img src="https://img.shields.io/badge/Support_My_Work-Ko--fi-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
+      <img src="https://img.shields.io/badge/SUPPORT_MY_WORK-KO--FI-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
     </a>
   </div>
 </div>
 
-<!-- 3D-like Buttons Section -->
+<!-- Skills Showcase -->
 <div align="center">
   <div style="margin: 20px auto; max-width: 600px;">
     <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
       <a href="#" style="text-decoration: none;">
-        <img src="https://custom-icon-badges.demolab.com/badge/Flutter_Development-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" width="200" alt="Flutter Development" />
+        <img src="https://img.shields.io/badge/FLUTTER_DEVELOPMENT-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Development" />
       </a>
       <a href="#" style="text-decoration: none;">
-        <img src="https://custom-icon-badges.demolab.com/badge/Mobile_Apps-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" width="160" alt="Mobile Apps" />
+        <img src="https://img.shields.io/badge/MOBILE_APPS-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Apps" />
       </a>
       <a href="#" style="text-decoration: none;">
-        <img src="https://custom-icon-badges.demolab.com/badge/UI/UX_Design-FF3366.svg?style=for-the-badge&logo=palette&logoColor=white" width="160" alt="UI/UX Design" />
+        <img src="https://img.shields.io/badge/UI/UX_DESIGN-FF3366?style=for-the-badge&logo=design&logoColor=white" alt="UI/UX Design" />
       </a>
     </div>
   </div>
 </div>
 
-<!-- Simple Footer -->
+<!-- Footer -->
 <div align="center">
-<!-- Animated Background Divider -->
-<div align="center" style="margin: 30px 0;">
-  <img width="100%" src="https://raw.githubusercontent.com/K-Kelsey/K-Kelsey/master/icons/gradient_divider.png">
-</div>
-
-<!-- Futuristic Footer with QR Code -->
-<div align="center" style="margin-top: 30px; padding: 20px;">
-  <table style="width: 100%; border-collapse: collapse; border-radius: 10px; overflow: hidden;">
-    <tr>
-      <td align="center" style="width: 50%; padding: 20px;">
-        <h3 style="font-family: 'Poppins', sans-serif; background: linear-gradient(to right, #30CFD0, #6EE7B7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Scan to connect instantly</h3>
-        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/fisforfaheem" width="150" height="150" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-      </td>
-      <td align="center" style="width: 50%; padding: 20px;">
-        <div style="text-align: center;">
-          <img src="https://media4.giphy.com/media/PkY30am44byuuKIhxP/giphy.gif" width="100" style="margin-bottom: 10px;">
-          <h3 style="font-family: 'Poppins', sans-serif; background: linear-gradient(to right, #6EE7B7, #5A45FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Made with Flutter</h3>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interactive Footer Animation -->
-<div align="center">
-  <img src="https://svgur.com/i/MVF.svg" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
