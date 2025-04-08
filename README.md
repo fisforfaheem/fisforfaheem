@@ -37,17 +37,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px" alt="Tech Stack Animation" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320px" alt="Coder GIF" />
 
 I'm a **Flutter Developer** who builds experiences that users actually want to use. After shipping 20+ freelance projects across multiple platforms, I've developed a knack for turning complex problems into elegant solutions.
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> IT Graduate from <b>PMAS Arid University, Rawalpindi</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Currently building <b>cross-platform apps</b> that feel native<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" /> Constantly learning about <b>Design Patterns, Architecture & UI/UX</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" alt="Badminton" width="25" height="25" /> When AFK: Destroying friends at badminton, hunting tech gadgets<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Always down to chat about <b>Flutter, design systems, or app architecture</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" height="25" /> Secret talent: Turning caffeine into code at alarming rates
+  <p>👨‍🎓 IT Graduate from <b>PMAS Arid University, Rawalpindi</b></p>
+  <p>🚀 Currently building <b>cross-platform apps</b> that feel native</p>
+  <p>🌱 Constantly learning about <b>Design Patterns, Architecture & UI/UX</b></p>
+  <p>🏸 When AFK: Destroying friends at badminton, hunting tech gadgets</p>
+  <p>💬 Always down to chat about <b>Flutter, design systems, or app architecture</b></p>
+  <p>☕ Secret talent: Turning caffeine into code at alarming rates</p>
 </div>
 
 <!-- Animated Divider -->
@@ -67,41 +67,18 @@ I'm a **Flutter Developer** who builds experiences that users actually want to u
   <a href="#"><img src="https://img.shields.io/badge/Clean_Architecture-1F1F1F?style=for-the-badge&logoColor=white&labelColor=0d0d0d" alt="Clean Architecture" /></a>
 </p>
 
-<!-- Animated Skill Progress Bars -->
+<!-- Skills with percentage -->
 <div align="center">
-  <table>
-    <tr>
-      <td>Flutter</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=350&color=02569B" />
-      </td>
-    </tr>
-    <tr>
-      <td>Dart</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=350&color=0175C2" />
-      </td>
-    </tr>
-    <tr>
-      <td>Firebase</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=350&color=FFCA28" />
-      </td>
-    </tr>
-    <tr>
-      <td>UI/UX Design</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=350&color=FF3E00" />
-      </td>
-    </tr>
-    <tr>
-      <td>App Architecture</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=350&color=1F1F1F" />
-      </td>
-    </tr>
-  </table>
+  <h3>My Top Skills</h3>
 </div>
+
+| Skill | Proficiency |
+| ----- | ----------- |
+| Flutter | ⭐⭐⭐⭐⭐ 95% |
+| Dart | ⭐⭐⭐⭐⭐ 95% |
+| Firebase | ⭐⭐⭐⭐⭐ 90% |
+| UI/UX Design | ⭐⭐⭐⭐ 85% |
+| App Architecture | ⭐⭐⭐⭐⭐ 90% |
 
 <!-- Animated Code Block -->
 <div align="center">
@@ -140,11 +117,10 @@ class FlutterDeveloper {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" height="25"> My GitHub Contributions
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My GitHub Contributions
 
 <div align="center">
-  <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Infinity.png" width="20" height="20"> I believe in the power of consistent contributions and continuous improvement.</p>
-  <img src="https://raw.githubusercontent.com/fisforfaheem/fisforfaheem/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <p>💫 I believe in the power of consistent contributions and continuous improvement.</p>
   
   <p>Check out my GitHub profile for my latest projects and contributions!</p>
   
@@ -156,35 +132,95 @@ class FlutterDeveloper {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25" height="25"> What Sets Me Apart
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> What Sets Me Apart
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450px" />
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="20" height="20"> <b>Performance-First Approach</b>: Building Flutter apps that run smoothly, even on lower-end devices<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" height="20"> <b>Clean, Maintainable Code</b>: Following best practices and design patterns for scalable apps<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" width="20" height="20"> <b>User-Centered Design</b>: Creating intuitive interfaces that users love to interact with<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="20" height="20"> <b>Problem Solver</b>: Turning complex requirements into elegant solutions<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="20" height="20"> <b>Continuous Learner</b>: Always experimenting with new technologies and approaches
+  <p>⚡ <b>Performance-First Approach</b>: Building Flutter apps that run smoothly, even on lower-end devices</p>
+  <p>🔧 <b>Clean, Maintainable Code</b>: Following best practices and design patterns for scalable apps</p>
+  <p>🎨 <b>User-Centered Design</b>: Creating intuitive interfaces that users love to interact with</p>
+  <p>🧩 <b>Problem Solver</b>: Turning complex requirements into elegant solutions</p>
+  <p>📚 <b>Continuous Learner</b>: Always experimenting with new technologies and approaches</p>
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" height="25"> Currently Exploring
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Currently Exploring
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Advanced_State_Management-61DAFB?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/UI_Animations-00C7B7?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Performance_Optimization-8B5CF6?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AR_Integration-FF9E0F?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter_3.0+-02569B?style=for-the-badge" /></a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100px">
+        <h3>Advanced State Management</h3>
+        <p>
+          Exploring BLoC, Riverpod, and Redux architectures to manage complex app states efficiently.
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/BLoC-blue?style=for-the-badge&logo=flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge&logo=flutter&logoColor=white">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/3o7qE6xQcTQs8nJfvq/giphy.gif" width="100px">
+        <h3>UI Animations</h3>
+        <p>
+          Crafting beautiful micro-interactions and transitions for delightful user experiences.
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Rive-00C7B7?style=for-the-badge&logo=flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Lottie-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtybDV0dWNxbjMwcWJ1cjNqNDRna2dtdWRsd2EyeTQzMWM1MDg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5jUsD1LUQgdNXrTXGK/giphy.gif" width="100px">
+        <h3>Performance Optimization</h3>
+        <p>
+          Improving app speed and efficiency with advanced techniques and profiling tools.
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/DevTools-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Memory_Profiling-5E35B1?style=for-the-badge&logo=flutter&logoColor=white">
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/3o7qE6xQcTQs8nJfvq/giphy.gif" width="100px">
+        <h3>AR Integration</h3>
+        <p>
+          Exploring augmented reality to create immersive experiences within Flutter applications.
+        </p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/ARCore-FF9E0F?style=for-the-badge&logo=google&logoColor=white">
+          <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100px">
+  <h3>Flutter 3.x+ Features</h3>
+  <p>Leveraging the latest capabilities in Material 3, desktop support, and performance improvements.</p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Material_3-4285F4?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Desktop_Support-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Web_Rendering-13B9FD?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500px">
+</div>
 
 <!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling&fontColor=ffffff"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling&fontColor=ffffff"/>
