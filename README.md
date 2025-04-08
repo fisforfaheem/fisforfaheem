@@ -166,50 +166,30 @@ class FlutterDeveloper {
 </div>
 
 <div align="center">
-  <table style="width:90%; margin:20px auto; border-radius:20px; overflow:hidden;">
-    <tr>
-      <td>
-        <!-- Glassmorphism Contact Card -->
-        <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius:16px; padding:20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); margin:10px;">
-          <div align="center">
-            <img src="https://i.imgur.com/iXuL1HG.png" alt="Contact Me" width="150" height="150" style="border-radius:50%; border:3px solid #02C39A; box-shadow: 0 0 20px rgba(2, 195, 154, 0.5);">
-            <h2 style="font-family:'Poppins',sans-serif; font-weight:800; background: linear-gradient(to right, #30CFD0, #5A45FF, #6EE7B7); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; margin:10px 0;">
-              Let's Connect
-            </h2>
-            
-            <div style="display:flex; justify-content:space-around; flex-wrap:wrap; max-width:600px; margin:0 auto;">
-              <!-- Animated contact buttons with hover effect suggestions -->
-              <a href="mailto:fisforfaheem@gmail.com" target="_blank" style="text-decoration:none; margin:10px;">
-                <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Email">
-                <img src="https://img.shields.io/badge/↗-%23D14836.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
-              </a>
-              
-              <a href="https://t.me/fisforfaheem" target="_blank" style="text-decoration:none; margin:10px;">
-                <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Telegram">
-                <img src="https://img.shields.io/badge/↗-%232CA5E0.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
-              </a>
-              
-              <a href="https://www.instagram.com/fisforfaheem/" target="_blank" style="text-decoration:none; margin:10px;">
-                <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Instagram">
-                <img src="https://img.shields.io/badge/↗-%23E4405F.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
-              </a>
-              
-              <a href="https://api.whatsapp.com/send?phone=923431530052" target="_blank" style="text-decoration:none; margin:10px;">
-                <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="WhatsApp">
-                <img src="https://img.shields.io/badge/↗-%2325D366.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
-              </a>
-            </div>
-            
-            <div style="margin-top:20px;">
-              <a href="https://ko-fi.com/L4L5129XBM">
-                <img src="https://img.shields.io/badge/Support_My_Work-Ko--fi-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010" width="250">
-              </a>
-            </div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3 style="background: linear-gradient(to right, #30CFD0, #5A45FF, #6EE7B7); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect</h3>
+  
+  <p>I'm always open to collaborating on exciting Flutter projects!</p>
+  
+  <div>
+    <a href="mailto:fisforfaheem@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>&nbsp;
+    <a href="https://t.me/fisforfaheem" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>&nbsp;
+    <a href="https://www.instagram.com/fisforfaheem/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=923431530052" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </div>
+  
+  <div style="margin-top:20px;">
+    <a href="https://ko-fi.com/L4L5129XBM">
+      <img src="https://img.shields.io/badge/Support_My_Work-Ko--fi-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi">
+    </a>
+  </div>
 </div>
 
 <!-- 3D-like Buttons Section -->
@@ -229,6 +209,8 @@ class FlutterDeveloper {
   </div>
 </div>
 
+<!-- Simple Footer -->
+<div align="center">
 <!-- Animated Background Divider -->
 <div align="center" style="margin: 30px 0;">
   <img width="100%" src="https://raw.githubusercontent.com/K-Kelsey/K-Kelsey/master/icons/gradient_divider.png">
