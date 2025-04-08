@@ -1,72 +1,55 @@
-<meta name="google-site-verification" content="2BMJ3NY8ro8-ov_NLJ3JR2gS1mS7hdPGmGF5zCWq9kQ" />
+<!-- Header with animated wave -->
+# Hey there, I'm Faheem Ahmad 👋
 
-### Hey there, I'm  Faheem Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="32">
-<p>As a  skilled and experienced Flutter developer, I have a proven track record of successfully delivering over 20+ freelance projects. My portfolio on Github showcases a selection of my work, while additional projects were completed under non-disclosure agreements.</p>
+![](code.gif)
 
-<p>I am constantly striving to improve and stay up-to-date with the latest technologies and industry trends. With my good communication and collaboration skills, I am able to work effectively with clients and team members to deliver projects that exceed expectations. I am always eager to take on new challenges and am committed to delivering outstanding results.<p>
-    
-<p>If you are looking for a motivated and skilled Flutter developer, then I would be the perfect candidate for your team. I am confident that my skills and experience would be an asset to any organization and would welcome the opportunity to further discuss how I can contribute to your business.<p>
+## The short version ⚡
 
+Flutter developer with 20+ shipped projects | Android/iOS/Web | Freelancer | IT Grad | Badminton enthusiast
+
+## About me 🚀
+
+I build things that live on mobile devices. Having shipped 20+ freelance Flutter projects (many under NDAs, but check my repos for the public ones), I'm all about crafting clean, efficient experiences that actually solve problems.
+
+When I'm not glued to VS Code, you'll find me destroying friends at badminton or hunting down new tech to play with. Always down to chat about design patterns, UI/UX, or why Flutter is taking over the world (fight me).
+
+## What I'm up to 🔥
+
+- Building cross-platform apps with Flutter
+- Diving deeper into design patterns & architecture
+- Crafting pixel-perfect UI/UX that doesn't suck
+- Experimenting with Firebase's latest offerings
+- IT Graduate from PMAS Arid University, Rawalpindi
+
+## My toolkit 🛠️
+
+```
+📱 Flutter (Android/iOS/Web)     🔥 Firebase (Auth, Firestore, Functions)
+🧠 Dart & OOP                    💾 State Management (Provider, Bloc, Riverpod)
+🎨 UI/UX Implementation          📊 RESTful APIs & JSON parsing
+📦 Clean Architecture            💰 Google AdMob integration
+```
+
+## Let's connect! 📫
 
 <div align="center">
-<p align="center">Let's connect!</p>
-
-
-<a href="https://t.me/fisforfaheem">
-    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
-</a>
-   
-<a href="mailto:fisforfaheem@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-</a>
-    
-<a href="https://www.instagram.com/fisforfaheem/">
-    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
-</a>
-    
-<a href="https://api.whatsapp.com/send?phone=923431530052">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-</a>
-
+<a href="https://t.me/fisforfaheem"><img width="32" height="32" src="https://telegram.org/favicon.ico?3" /></a>&nbsp;&nbsp;
+<a href="mailto:fisforfaheem@gmail.com"><img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/fisforfaheem/"><img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" /></a>&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=923431530052"><img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" /></a>
 </div>
 
-<br>
-
-### An IT graduate, Developer & Freelancer
-
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Talking about my personal stuff:
-- 🙋‍♂️ Learner
-- 💻 Flutter Android/Windows/Web dev
-- 📑 IT Graduate from PMAS Arid University, Rawalpindi.
-
-
-- 🌱 I’m currently learning **Flutter, Design Patterns, UI/UX**
-
-- 💬 Ask me about **flutter, Design Pattern, Data Structures, OOP, UI/UX**
-
-- 📫 How to reach me **fisforfaheem@gmail.com**
-
-- ⚡ Fun fact **I love to code and play badminton.**
-
-
-### My skills 🛠
-👉 Android and IOS Mobile Apps (Flutter SDK)<br>
-👉 Web Apps (Flutter SDK)<br>
-👉 Firebase Functions<br>
-👉 Clean and efficient code<br>
-👉 Parsing data and APIs<br>
-👉 Google Admob<br>
-
-<br>
+## Want to support my work?
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L5129XBM)
 
-<br>
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
-<div align="center">
-   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
-</div>
+## Tech stack 🧪
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
