@@ -149,75 +149,108 @@ class FlutterDeveloper {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Currently Exploring
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Flutter Exploration Lab
 
 <div align="center">
-  <table border="0">
+  <h3>🚀 Pushing Flutter to its Limits</h3>
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<br>
+
+<div style="transform: perspective(1000px) rotateX(10deg);">
+  <table align="center" style="border-radius:10px; overflow:hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100px">
-        <h3>Advanced State Management</h3>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #5EFCE8 10%, #736EFE 100%);">
+        <img src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/flutter_intro.gif" width="100%" style="border-radius:8px;">
+        <h3 style="color:#2A2A3C; font-weight:700; margin:10px 0;">Flutter 3.0+ Architecture</h3>
         <p>
-          Exploring BLoC, Riverpod, and Redux architectures to manage complex app states efficiently.
+          Exploring advanced architecture patterns with Flutter's latest features:
         </p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/BLoC-blue?style=for-the-badge&logo=flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Riverpod-purple?style=for-the-badge&logo=flutter&logoColor=white">
-        </a>
+        <div>
+          <img src="https://img.shields.io/badge/Clean_Architecture-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=015099">
+          <img src="https://img.shields.io/badge/Modular_Design-045FB4?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0257A0">
+          <img src="https://img.shields.io/badge/Domain_Driven-0277BD?style=for-the-badge&logo=flutter&logoColor=white&labelColor=026da8">
+        </div>
       </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3o7qE6xQcTQs8nJfvq/giphy.gif" width="100px">
-        <h3>UI Animations</h3>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #FFAA85 10%, #B3315F 100%);">
+        <img src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/3c1baa4c4d14552e283e4043a917b7d8.gif" width="100%" style="border-radius:8px;">
+        <h3 style="color:#2A2A3C; font-weight:700; margin:10px 0;">Flutter Animation Systems</h3>
         <p>
-          Crafting beautiful micro-interactions and transitions for delightful user experiences.
+          Creating stunning motion experiences with Flutter's animation APIs:
         </p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Rive-00C7B7?style=for-the-badge&logo=flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Lottie-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white">
-        </a>
+        <div>
+          <img src="https://img.shields.io/badge/Hero_Animations-FF5252?style=for-the-badge&logo=flutter&logoColor=white&labelColor=E04242">
+          <img src="https://img.shields.io/badge/Rive_Integration-FF4081?style=for-the-badge&logo=flutter&logoColor=white&labelColor=ec3b79">
+          <img src="https://img.shields.io/badge/Custom_Painters-FF7043?style=for-the-badge&logo=flutter&logoColor=white&labelColor=FD5C2E">
+        </div>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtybDV0dWNxbjMwcWJ1cjNqNDRna2dtdWRsd2EyeTQzMWM1MDg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5jUsD1LUQgdNXrTXGK/giphy.gif" width="100px">
-        <h3>Performance Optimization</h3>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #CE9FFC 10%, #7367F0 100%);">
+        <img src="https://cdn.dribbble.com/users/107759/screenshots/14132291/media/5f2e4432b5e5dcd1293cbd551f9e9c92.gif" width="100%" style="border-radius:8px;">
+        <h3 style="color:#2A2A3C; font-weight:700; margin:10px 0;">Flutter State Management</h3>
         <p>
-          Improving app speed and efficiency with advanced techniques and profiling tools.
+          Mastering reactive state management approaches in Flutter:
         </p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/DevTools-8B5CF6?style=for-the-badge&logo=flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Memory_Profiling-5E35B1?style=for-the-badge&logo=flutter&logoColor=white">
-        </a>
+        <div>
+          <img src="https://img.shields.io/badge/Riverpod_2.0-7C4DFF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=6E45E2">
+          <img src="https://img.shields.io/badge/Bloc_8.0-673AB7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=5C34A4">
+          <img src="https://img.shields.io/badge/GetX_Patterns-9C27B0?style=for-the-badge&logo=flutter&logoColor=white&labelColor=8E24AA">
+        </div>
       </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3o7qE6xQcTQs8nJfvq/giphy.gif" width="100px">
-        <h3>AR Integration</h3>
+      <td width="50%" align="center" style="background: linear-gradient(135deg, #65FDF0 10%, #1D6FA3 100%);">
+        <img src="https://cdn.dribbble.com/users/1138631/screenshots/14610191/media/76a58c638c9232d2725a06de1dfcd677.gif" width="100%" style="border-radius:8px;">
+        <h3 style="color:#2A2A3C; font-weight:700; margin:10px 0;">Flutter Platform Integrations</h3>
         <p>
-          Exploring augmented reality to create immersive experiences within Flutter applications.
+          Bridging Flutter with advanced platform capabilities:
         </p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/ARCore-FF9E0F?style=for-the-badge&logo=google&logoColor=white">
-          <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white">
-        </a>
+        <div>
+          <img src="https://img.shields.io/badge/FFI_C++_Bridge-0288D1?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0276b3">
+          <img src="https://img.shields.io/badge/Platform_Channels-0097A7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=01828F">
+          <img src="https://img.shields.io/badge/Native_Performance-00796B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=006559">
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100px">
-  <h3>Flutter 3.x+ Features</h3>
-  <p>Leveraging the latest capabilities in Material 3, desktop support, and performance improvements.</p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Material_3-4285F4?style=for-the-badge&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Desktop_Support-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/Web_Rendering-13B9FD?style=for-the-badge&logo=flutter&logoColor=white">
-  </a>
+<br>
+
+<div align="center" style="transform: perspective(1000px) rotateX(5deg);">
+  <table style="width:85%; margin:0 auto; background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%); border-radius:16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+    <tr>
+      <td align="center" style="padding:20px;">
+        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80px">
+        <h3 style="color:#333; font-weight:700; margin:10px 0;">Flutter DevTools Mastery</h3>
+        <p>Unlocking performance optimization with Flutter's powerful developer tools</p>
+        <div style="display:flex; gap:10px; justify-content:center;">
+          <img src="https://img.shields.io/badge/Memory_Profiler-FFC107?style=for-the-badge&logo=flutter&logoColor=black&labelColor=#FFC107">
+          <img src="https://img.shields.io/badge/Widget_Inspector-F9A825?style=for-the-badge&logo=flutter&logoColor=black&labelColor=#F9A825">
+          <img src="https://img.shields.io/badge/Rendering_Debug-FF8F00?style=for-the-badge&logo=flutter&logoColor=black&labelColor=#FF8F00">
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500px">
+  <h3>Flutter Roadmap 2023</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_light.png">
+    <img alt="Flutter DevTools Memory Chart" src="https://github.com/flutter/website/raw/main/src/content/assets/images/docs/tools/devtools/memory_chart_dark.png" width="500">
+  </picture>
 </div>
+
+<!-- Wave animation at bottom -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling&fontColor=ffffff"/>
