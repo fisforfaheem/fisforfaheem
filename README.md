@@ -242,29 +242,105 @@ class FlutterDeveloper {
 
 <!-- Modern animated ending section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=40&fontAlignY=65&animation=fadeIn&fontColor=FFFFFF" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=02C39A&center=true&vCenter=true&multiline=true&random=false&width=600&height=150&lines=READY+TO+COLLABORATE%3F;LET'S+CREATE+SOMETHING+EXTRAORDINARY;WITH+FLUTTER+%26+DART" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100" />
-
-  <h3>Thanks for visiting my profile!</h3>
-  
-  <p>I'm always open to collaborating on interesting Flutter projects.</p>
-  
-  <a href="mailto:fisforfaheem@gmail.com">
-    <img src="https://img.shields.io/badge/Get%20In%20Touch-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  
-  <a href="https://api.whatsapp.com/send?phone=923431530052">
-    <img src="https://img.shields.io/badge/Let's%20Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 </div>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/marquee.svg" />
+<div align="center">
+  <table style="width:90%; margin:20px auto; border-radius:20px; overflow:hidden;">
+    <tr>
+      <td>
+        <!-- Glassmorphism Contact Card -->
+        <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border-radius:16px; padding:20px; border: 1px solid rgba(255, 255, 255, 0.2); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); margin:10px;">
+          <div align="center">
+            <img src="https://i.imgur.com/iXuL1HG.png" alt="Contact Me" width="150" height="150" style="border-radius:50%; border:3px solid #02C39A; box-shadow: 0 0 20px rgba(2, 195, 154, 0.5);">
+            <h2 style="font-family:'Poppins',sans-serif; font-weight:800; background: linear-gradient(to right, #30CFD0, #5A45FF, #6EE7B7); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; margin:10px 0;">
+              Let's Connect
+            </h2>
+            
+            <div style="display:flex; justify-content:space-around; flex-wrap:wrap; max-width:600px; margin:0 auto;">
+              <!-- Animated contact buttons with hover effect suggestions -->
+              <a href="mailto:fisforfaheem@gmail.com" target="_blank" style="text-decoration:none; margin:10px;">
+                <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Email">
+                <img src="https://img.shields.io/badge/↗-%23D14836.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
+              </a>
+              
+              <a href="https://t.me/fisforfaheem" target="_blank" style="text-decoration:none; margin:10px;">
+                <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Telegram">
+                <img src="https://img.shields.io/badge/↗-%232CA5E0.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
+              </a>
+              
+              <a href="https://www.instagram.com/fisforfaheem/" target="_blank" style="text-decoration:none; margin:10px;">
+                <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="Instagram">
+                <img src="https://img.shields.io/badge/↗-%23E4405F.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
+              </a>
+              
+              <a href="https://api.whatsapp.com/send?phone=923431530052" target="_blank" style="text-decoration:none; margin:10px;">
+                <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&style=plastic&logoWidth=20&labelColor=black" alt="WhatsApp">
+                <img src="https://img.shields.io/badge/↗-%2325D366.svg?&style=flat-square&logo=&logoColor=white&style=plastic&logoWidth=20&color=black&labelColor=black" height="5">
+              </a>
+            </div>
+            
+            <div style="margin-top:20px;">
+              <a href="https://ko-fi.com/L4L5129XBM">
+                <img src="https://img.shields.io/badge/Support_My_Work-Ko--fi-%23FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=101010" width="250">
+              </a>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 3D-like Buttons Section -->
+<div align="center">
+  <div style="margin: 20px auto; max-width: 600px;">
+    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+      <a href="#" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/badge/Flutter_Development-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" width="200" alt="Flutter Development" />
+      </a>
+      <a href="#" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/badge/Mobile_Apps-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" width="160" alt="Mobile Apps" />
+      </a>
+      <a href="#" style="text-decoration: none;">
+        <img src="https://custom-icon-badges.demolab.com/badge/UI/UX_Design-FF3366.svg?style=for-the-badge&logo=palette&logoColor=white" width="160" alt="UI/UX Design" />
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Animated Background Divider -->
+<div align="center" style="margin: 30px 0;">
+  <img width="100%" src="https://raw.githubusercontent.com/K-Kelsey/K-Kelsey/master/icons/gradient_divider.png">
+</div>
+
+<!-- Futuristic Footer with QR Code -->
+<div align="center" style="margin-top: 30px; padding: 20px;">
+  <table style="width: 100%; border-collapse: collapse; border-radius: 10px; overflow: hidden;">
+    <tr>
+      <td align="center" style="width: 50%; padding: 20px;">
+        <h3 style="font-family: 'Poppins', sans-serif; background: linear-gradient(to right, #30CFD0, #6EE7B7); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Scan to connect instantly</h3>
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/fisforfaheem" width="150" height="150" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+      </td>
+      <td align="center" style="width: 50%; padding: 20px;">
+        <div style="text-align: center;">
+          <img src="https://media4.giphy.com/media/PkY30am44byuuKIhxP/giphy.gif" width="100" style="margin-bottom: 10px;">
+          <h3 style="font-family: 'Poppins', sans-serif; background: linear-gradient(to right, #6EE7B7, #5A45FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Made with Flutter</h3>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Interactive Footer Animation -->
+<div align="center">
+  <img src="https://svgur.com/i/MVF.svg" width="100%">
+</div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=25&duration=3000&pause=1000&color=0288D1&background=FFFFFF00&center=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+using+Flutter" alt="Made with ❤️ using Flutter" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer&animation=twinkling&fontColor=ffffff"/>
 </div>
