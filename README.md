@@ -28,12 +28,6 @@ I'm a **Flutter Developer** who builds experiences that users actually want to u
 - 💬 Always down to chat about **Flutter, design systems, or app architecture**
 - ⚡ Secret talent: Turning caffeine into code at alarming rates
 
-<p align="center">
-  <a href="https://github.com/fisforfaheem">
-    <img src="https://github-profile-trophy.vercel.app/?username=fisforfaheem&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 🔥 Skills & Technologies
 
 <p align="center">
@@ -77,18 +71,14 @@ class FlutterDeveloper {
 }
 ```
 
-## 📊 GitHub Stats
+## 📈 My GitHub Contributions
 
 <div align="center">
+  <p>I believe in the power of consistent contributions and continuous improvement.</p>
+  <p>Check out my GitHub profile for my latest projects and contributions!</p>
+  
   <a href="https://github.com/fisforfaheem">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fisforfaheem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fisforfaheem&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/fisforfaheem">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fisforfaheem&theme=radical" alt="GitHub Streak" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </div>
 
