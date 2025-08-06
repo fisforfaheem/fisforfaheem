@@ -1,4 +1,4 @@
-<!-- Modern Animated Header with Enhanced Styling -->
+<!-- Animated Header with Modern Styling -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=150&section=header&text=Faheem%20Ahmad&fontAlignY=35&desc=Flutter%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=55&animation=fadeIn&fontColor=ffffff&fontSize=60&descSize=20" alt="header" width="100%" />
 </div>
